@@ -23,6 +23,10 @@ Publicação no repositório da UTFPR: breve...
 }
 ```
 
+# Citação
+Ao utilizar esses arquivos, por favor, cite o artigo acima. Obrigado.
+
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Martins, Augusto C. S. 
