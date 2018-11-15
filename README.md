@@ -6,7 +6,11 @@ Data da Defesa: 27/08/2015
 
 Resultado: Aprovado
 
-Publicação no repositório da UTFPR: breve...
+Publicação no repositório da UTFPR: 
+
+http://repositorio.utfpr.edu.br/jspui/handle/1/1616
+
+http://repositorio.utfpr.edu.br/jspui/bitstream/1/1616/1/CT_PPGCA_M_Martins%2c%20Augusto%20Cesar%20Souza_2015.pdf
 
 # Artigo
 ```
